@@ -1,0 +1,8 @@
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe.config
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.exe
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\bin\Debug\WindowsFormsApplication.pdb
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Form1.resources
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.Properties.Resources.resources
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.csproj.GenerateResource.Cache
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.exe
+E:\ASP.NET\Project\WindowsFormsApplication\WindowsFormsApplication\obj\Debug\WindowsFormsApplication.pdb
